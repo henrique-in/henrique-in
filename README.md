@@ -1,16 +1,13 @@
-### Hi there 👋
+# Henrique Oliveira
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henrique-in/)](www.linkedin.com/in/henrique-in) 
+## Hello 👋, 
+I'm Henrique Oliveira, Bachelor in Information Systems and passionate about mobile technology
+. 
 
-<!--
-**ricktoon/ricktoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :iphone: I am currently working with React Native
+- :sparkles: Currently studying JavaScript and UI / UX
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+⭐️ From [Henrique Oliveira](https://github.com/ricktoon)
