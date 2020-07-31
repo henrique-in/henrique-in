@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/ruandersonvieira/ruandersonvieira/master/.github/assets/img/banner/banner.png">
 
 # Henrique Oliveira
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henrique-in/)](www.linkedin.com/in/henrique-in) 
