@@ -23,9 +23,9 @@ I'm Henrique Oliveira, Bachelor in Information Systems and passionate about mobi
 </p>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ricktoon&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricktoon&hide=TeX&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=henrique-in&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-in&hide=TeX&layout=compact&theme=tokyonight)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ricktoon.ricktoon)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ricktoon.henrique-in)
 ---
-⭐️ From [Henrique Oliveira](https://github.com/ricktoon)
+⭐️ From [Henrique Oliveira](https://github.com/henrique-in)
